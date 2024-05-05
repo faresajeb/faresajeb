@@ -1,4 +1,4 @@
-<img src="https://github.com/faresajeb/faresajeb/blob/main/Developer.jpg" width="900" height="250">
+<img src="https://github.com/faresajeb/faresajeb/blob/main/Developer1.jpg" width="900" height="250">
 ### Hi there 👋, My Name is Fares
 I'm Fares from Syria, and I am a Computer Science Student. I enjoy learning languages like SQL and C++. 
 
