@@ -1,7 +1,7 @@
 <img src="https://github.com/faresajeb/faresajeb/blob/main/Developer1.jpg" width="900" height="250">
 <h1 align="center">Fares Ajeb</h1>
 
-I'm Fares from Syria, and I am a Computer Science Student. I enjoy learning languages like SQL and C++. 
+<h3 align="center">I'm Fares from Syria, and I am a Computer Science Student. I enjoy learning languages like SQL and C++.</h3>
 
 Skills: Python/ C / SQL / HTML / CSS
 
