@@ -1,6 +1,5 @@
-### Hi there 👋, My Name is Fares
 ![](https://github.com/faresajeb/faresajeb/blob/main/Developer.jpg)
-
+### Hi there 👋, My Name is Fares
 I'm Fares from Syria, and I am a Computer Science Student. I enjoy learning languages like SQL and C++. 
 
 Skills: Python/ C / SQL / HTML / CSS
