@@ -14,7 +14,6 @@ Skills: Python/ C / SQL / HTML / CSS
 
 <a href="https://linkedin.com/in/fares-ajeb-a82a2b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fares-ajeb-a82a2b263" height="30" width="40" /></a>
 <a href="https://fb.com/fares.ajeeb15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fares.ajeeb15" height="30" width="40" /></a>
-<a href="https://instagram.com/faresajeeb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faresajeeb1" height="30" width="40" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresajeb&layout=compact)
 
