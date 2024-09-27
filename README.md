@@ -5,7 +5,7 @@
 
 Skills: Python/ C / SQL / HTML / CSS / Java
 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning Java 
 - 💬 Ask me about Python, C, SQL, HTML, CSS, Java
 
 <h3 align="left">Languages and Tools:</h3>
